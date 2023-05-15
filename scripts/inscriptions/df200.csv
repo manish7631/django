@@ -1,0 +1,201 @@
+seqid,seq_in_num,cisi_id,wells_id,site,type,material_type,field_symbol,excavation_number,area,remark
+ic1,410-017,NA,1,Alamgirpur,POT:T:g,Clay,None,NA,NA,NA
+ic2,410-017,NA,2,Alamgirpur,POT:T:g,Clay,None,NA,NA,NA
+ic3,405-017,NA,3,Alamgirpur,POT:T:g,Clay,None,NA,NA,NA
+ic4,220-000,<  ,4,Allahdino,POT:T:g,Clay,None,AD73-157,NA,NA
+ic5,740-235,<  ,5,Allahdino,TAG,Clay,Bull,AD73-157,NA,NA
+ic6,740-390-590,NA,6,Allahdino,SEAL:S,Steatite,Bull1,AD74-147,NA,NA
+ic7,368-390-125-033,NA,7,Allahdino,SEAL:S,Steatite,Bull1:J,AD74-32,NA,NA
+ic8,740-904-033-705-235,NA,8,Allahdino,SEAL:S,Steatite,Bull1:II,AD74-177,NA,NA
+ic9,740-017-495-235-741-066,NA,9,Allahdino,SEAL:S,Steatite,Bull1:II,AD74-105,NA,NA
+ic10,156-460-510,NA,10,Allahdino,SEAL:S,Steatite,Bull1,AD74-123,NA,NA
+ic11,072-170-740-840-013,NA,11,Allahdino,SEAL:S,Steatite,Rhin,AD74-164,NA,NA
+ic12,740-440-503-002-861-000,NA,13,Allahdino,MISC,Clay,Elep,AD74-67,NA,NA
+ic13,390-415,<  ,16,Altyn Depe,SEAL:S,NA,None,NA,NA,NA
+ic14,390-034,NA,17,Amri,POT:T:g,Clay,None,AI-23(10b),NA,NA
+ic15,405-844-032-840-002-861,<  ,18,Bakkar Buthi,POT:T:g,Clay,None,NA,NA,NA
+ic16,226-003-002-297-350-125-413,NA,19,Bala-kot,SEAL:S,NA,Bull1,2 BLK-165,NA,NA
+ic17,390-717-061-002-368-634,NA,20,Bala-kot,SEAL:S,NA,Bull1,BLK-104,NA,NA
+ic18,000-388-233-000-000,NA,21,Bala-kot,SEAL:S,NA,Bull1:II,3 BLK-1975,NA,NA
+ic19,527-554-298-368-634,NA,22,Bala-kot,SEAL:S,NA,Bull1:II,2 BLK- 222,NA,NA
+ic20,750-790-000,NA,23,Bala-kot,BNGL,NA,None,3 BLK- 189,NA,NA
+ic21,415,NA,24,Bala-kot,SEAL:S,NA,Bull3,4 BLK- 21,NA,NA
+ic22,000,<  ,25,Harappa,POT:T:g,Clay,None,NA,E,NA
+ic23,520-001,<  ,26,Banawali,SEAL:S,NA,Goat:1,NA,NA,NA
+ic24,090-740-220-002-368-550-821,NA,27,Banawali,SEAL:S,NA,Bull1:O,BNL1 1027,NA,NA
+ic25,220-014,NA,28,Banawali,SEAL:S,NA,Bull1,BNL1 5026,NA,NA
+ic26,740-797,NA,29,Banawali,SEAL:S,NA,Bull3,BNL 5473,NA,NA
+ic27,002-817,NA,30,Banawali,SEAL:S,NA,Bull3,BNL 9903,NA,NA
+ic28,002-817,NA,31,Banawali,SEAL:S,Steatite,Buff,BNL 551,NA,NA
+ic29,740-061,NA,32,Banawali,SEAL:S,Steatite,Goat:4,BNL 312,NA,NA
+ic30,390-004,NA,33,Banawali,SEAL:S,Steatite,Goat:3,BNL1 1028,NA,NA
+ic31,007,NA,34,Banawali,SEAL:S,Steatite,Goat:3,BNL 9204,NA,NA
+ic32,411,NA,35,Banawali,SEAL:S,Steatite,Goat:2,BNL 5132,NA,NA
+ic33,002-817,NA,36,Banawali,SEAL:S,Steatite,Rhin,BNL 1847,NA,NA
+ic34,236-002-308-090,NA,37,Banawali,SEAL:S,Steatite,Htgr,BNL 9201,NA,NA
+ic35,740-803,NA,39,Banawali,SEAL:S,NA,None,NA,NA,NA
+ic36,426-003-060-692,NA,40,Banawali,SEAL:R,Steatite,None,BNL 9205,NA,NA
+ic37,374-308-350,NA,44,Banawali,POT:T:g,Clay,None,BNL,NA,NA
+ic38,234,NA,47,Banawali,POT:T:g,Clay,None,BNL,NA,NA
+ic39,700-000,NA,48,Banawali,POT:T:g,Clay,None,BNL,NA,NA
+ic40,000-000-000,<  ,49,Bhirrana,MISC,Clay,NA,NA,NA,NA
+ic41,390-003-003,<  ,50,Bhirrana,SEAL:S,NA,Buff,NA,NA,NA
+ic42,006,<  ,51,Bhirrana,SEAL:S,NA,Goat:5,NA,NA,NA
+ic43,236-002-820,<  ,52,Bhirrana,SEAL:S,NA,Bull1,NA,NA,NA
+ic44,220-000-740-550-705,NA,53,Chandigarh,POT:T:g,Clay,None,NA,NA,NA
+ic45,740-050-705,NA,54,Chandigarh,POT:T:g,Clay,None,NA,NA,NA
+ic46,031-705-167,NA,56,Chanhujo-daro,TAB:B,Faience,None,CH 1954 (2),NA,NA
+ic47,740-405,NA,57,Chanhujo-daro,TAG:P,Clay,None,NA,NA,NA
+ic48,740-386,NA,58,Chanhujo-daro,SEAL:S,Steatite,Bull3,CH 1269,NA,NA
+ic49,679,NA,59,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 1293,NA,NA
+ic50,892-700,NA,60,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 2000,Mound II,NA
+ic51,390-003-002-817,NA,61,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 2426,NA,NA
+ic52,000-100-240-220-032-002-861,NA,62,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 2428,NA,NA
+ic53,842-032-031-592-031-060-920,NA,64,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 2462,NA,NA
+ic54,740-482-235,NA,65,Chanhujo-daro,SEAL:S,Steatite,Bull1:V,CH 2467,NA,NA
+ic55,390-844-060-575-717,NA,66,Chanhujo-daro,SEAL:S,Steatite,Bull1:J,CH 2529 (CC),NA,NA
+ic56,740-531-060-692,NA,67,Chanhujo-daro,SEAL:S,Steatite,Elep,CH 2594 (h),NA,NA
+ic57,740-067-741-647-892,NA,68,Chanhujo-daro,SEAL:S,Steatite,Bull1,CH 2597,NA,NA
+ic58,740-176-032-002-861,NA,69,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 2605,NA,NA
+ic59,125-002-861,NA,76,Chanhujo-daro,SEAL:S,Steatite,Gaur,CH 3215,NA,NA
+ic60,151-740-100-240,NA,77,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 3318,NA,NA
+ic61,001-368-767,NA,79,Chanhujo-daro,SEAL:S,Steatite,Bull1:I,CH 3485 (a),NA,NA
+ic62,526-388,NA,80,Chanhujo-daro,SEAL:S,Steatite,Bull1,CH 3492,NA,NA
+ic63,740-032-840-002-296-530-000,NA,82,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 3811,NA,NA
+ic64,000-000-002-820,NA,84,Chanhujo-daro,SEAL:R,Steatite,NA,CH 3886,Mound I,NA
+ic65,161-055,NA,85,Chanhujo-daro,SEAL:S,Steatite,Bull1:S,CH 4596,Mound I,NA
+ic66,520-233-803-002-817,NA,87,Chanhujo-daro,SEAL:S,Steatite,Bull1:S,CH 4960,Mound I,NA
+ic67,031-840-140-740-101-002-365-287-034,NA,89,Chanhujo-daro,SEAL:S,Steatite,Bull1,CH 3817,Mound I,NA
+ic68,740-390-590,NA,90,Chanhujo-daro,SEAL:S,Steatite,Bull1:L,CH 2293,NA,NA
+ic69,740-016-002-920-317,NA,91,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 2389,NA,NA
+ic70,520-235-803-002-817,NA,92,Chanhujo-daro,SEAL:S,Steatite,Bull1:L,CH 2390,Mound II,NA
+ic71,740-140-717-002-298-741,NA,93,Chanhujo-daro,SEAL:S,Steatite,Bull1:I,CH 2361,NA,NA
+ic72,740-803-233-741-250-579,NA,96,Chanhujo-daro,SEAL:S,Steatite,Bull1:J,CH 2468,NA,NA
+ic73,151-233-803-033-705-240,NA,97,Chanhujo-daro,SEAL:S,Steatite,Bull1:J,CH 3045,NA,NA
+ic74,740-231-220-032-002-817,NA,98,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 2297,NA,NA
+ic75,161-390-590-031-740-060-920,NA,100,Chanhujo-daro,SEAL:S,Steatite,Bull1:L,CH 2530,NA,NA
+ic76,000-235,NA,102,Chanhujo-daro,SEAL:S,Steatite,Bull1,CH 3159,NA,NA
+ic77,740-400-920-031,NA,103,Chanhujo-daro,SEAL:S,Steatite,Bull1:W,CH 2603,NA,NA
+ic78,429-003-741-060-920,NA,104,Chanhujo-daro,SEAL:S,Steatite,Bull1:L,CH 2595,NA,NA
+ic79,740-100,NA,105,Chanhujo-daro,SEAL:S,Steatite,Bull1:I,CH 3207,NA,NA
+ic80,151-790-031-790-495,NA,107,Chanhujo-daro,SEAL:S,Steatite,Bull1:I,CH 3326,NA,NA
+ic81,156-230,NA,108,Chanhujo-daro,SEAL:S,Steatite,Bull1:II,CH 950,NA,NA
+ic82,129-817-310-350-128-857-003-388,NA,110,Chanhujo-daro,SEAL,Steatite,Mult,CH  372 (t),NA,NA
+ic83,822-140-015,NA,113,Chanhujo-daro,SEAL:S,Steatite,None,CH 3485 (b),NA,NA
+ic84,375-400-390-632,NA,114,Chanhujo-daro,SEAL:C,Steatite,Bull1:W,CH 2532,NA,NA
+ic85,032-031-390-844-000-000-032-803-220,NA,116,Chanhujo-daro,TAB:B,Clay,Gavi,CH 4470,NA,NA
+ic86,220-063-706-000,NA,119,Chanhujo-daro,MISC,Copper,None,CH 2529 U,NA,NA
+ic87,909-540-540,NA,120,Chanhujo-daro,ROD,Copper,None,CH 2529 H,Mound II,NA
+ic88,740-000-835-240-235-031-900-066,NA,121,Chanhujo-daro,IMPL,Copper,None,CH 2596 A,NA,NA
+ic89,740,NA,122,Daimabad,MISC,NA,None,DMD 5 II x'3,NA,NA
+ic90,740-920-320-233-240-001-002-817,NA,123,Desalpur,SEAL:R,NA,None,NA,NA,NA
+ic91,590-407-790-440,NA,124,Desalpur,SEAL:R,NA,None,NA,NA,NA
+ic92,394-032-002-892-740,NA,125,Desalpur,TAG,NA,None,NA,NA,NA
+ic93,151-892-032,<  ,127,Dholavira,SEAL:S,Steatite,Bull1:W,345,NA,NA
+ic94,156-019,<  ,128,Dholavira,SEAL:S,Steatite,Bull1:S,346,NA,NA
+ic95,093-808,<  ,129,Dholavira,SEAL:S,Steatite,Bull1:J,347,NA,NA
+ic96,520-460-495,<  ,131,Dholavira,SEAL:S,Steatite,Bull1:S,349,NA,NA
+ic97,740-416-002-861,<  ,132,Dholavira,SEAL:S,Steatite,Tigr,358,NA,NA
+ic98,520-460,<  ,133,Dholavira,SEAL:S,Steatite,None,374,NA,NA
+ic99,154-388-717-705,<  ,134,Dholavira,SEAL:R,Steatite,None,375,NA,NA
+ic100,590-407-790-032,<  ,135,Dholavira,SEAL:R,Clay,None,376,NA,NA
+ic101,390-016-002-861,<  ,136,Dholavira,SEAL:R,Steatite,None,377,NA,NA
+ic102,617-142,<  ,137,Dholavira,SEAL:R,Steatite,None,378,NA,NA
+ic103,520-033-706-233,<  ,138,Dholavira,SEAL:R,Steatite,None,379,Castle,NA
+ic104,740-100-407-590,<  ,139,Dholavira,SEAL:R,Steatite,None,380,NA,NA
+ic105,740-000,<  ,142,Dholavira,TAG:L,Clay,None,392,NA,NA
+ic106,000-400-350-031-002-817,<  ,143,Dholavira,TAB:B,Clay,Gavi,403,Castle,NA
+ic107,798-821-001-480-850-820-388-611-820,<  ,144,Dholavira,MISC,Gypsum,None,NA,Castle,NA
+ic108,151-382-031-002-861,NA,145,Dholavira,SEAL:S,NA,Bull1:J,NA,NA,NA
+ic109,317-817-000-090,<  ,147,Failaka,SEAL:C,NA,Gaur,NA,NA,NA
+ic110,240-220,<  ,149,Farmana,SEAL:S,Steatite,Bull1,NA,East Area,NA
+ic111,740-760-445,<  ,150,Farmana,TAG,Clay,Bull1,0307015,North Area,NA
+ic112,220-032,<  ,151,Farmana,SEAL:S,Steatite,Buff,110,North Area,NA
+ic113,390-371,<  ,153,Farmana,SEAL:S,Steatite,Bull1:J,818 Q-1,Central Area,NA
+ic114,740-923-838,NA,157,Gharo Bhiro,SEAL:R,NA,None,NA,NA,NA
+ic115,236-140-893-861,<  ,158,Gola Dhoro (Bagasra),SEAL:S,NA,Bull1:I,BSR 7368,Trench Eh 1,NA
+ic116,840,NA,159,Gumla,POT:T:p,Clay,None,C 0 (3) G,NA,NA
+ic117,033-255,NA,162,Harappa,TAB:I,Steatite,None,NA,F,NA
+ic118,031-460-000,<  ,165,Harappa,POT:T:g,NA,None,NA,AB,NA
+ic119,000-220-000,NA,166,Harappa,POT:T:g,NA,Mult,NA,NA,NA
+ic120,527-740-914,NA,170,Harappa,MISC,NA,NA,4332,NA,NA
+ic121,220-016,NA,173,Harappa,POT:T:s,Clay,None,NA,NA,NA
+ic122,235-033,NA,176,Harappa,POT:T:s,Clay,None,NA,NA,NA
+ic123,000-000-033,<  ,178,Harappa,TAB:B,Faience,None,NA,NA,NA
+ic124,090,NA,179,Harappa,POT:T:g,Clay,None,G279,NA,NA
+ic125,740-900-000-407-000-000-000,NA,180,Mohenjo-daro,TAB:C,Copper,Anth,DK4807,NA,NA
+ic126,740-142,NA,181,Harappa,POT:T:g,Clay,None,8013,NA,NA
+ic127,156,NA,182,Harappa,POT:T:g,Clay,None,NA,NA,NA
+ic128,415-000-160,<  ,183,Harappa,POT:T:g,Clay,None,NA,NA,NA
+ic129,697-590,NA,193,Harappa,POT:T:s,Clay,None,3759,NA,NA
+ic130,697-510,NA,194,Harappa,POT:T:s,Clay,None,8695,NA,NA
+ic131,697-722,NA,195,Harappa,POT:T:s,Clay,None,8253,NA,NA
+ic132,700-034,NA,198,Harappa,TAB:B,Faience,None,NA,NA,NA
+ic133,520-220-240-798-060-692,NA,199,Harappa,SEAL:S,Steatite,Bull1,NA,NA,NA
+ic134,692,<  ,201,Harappa,POT:T:g,Clay,None,NA,NA,NA
+ic135,740-055-806,NA,205,Harappa,SEAL:R,Steatite,None,NA,NA,NA
+ic136,700-033,<  ,212,Harappa,TAB:B,Faience,None,10252d,F,NA
+ic137,034-000-033,NA,213,Harappa,POT:T:g,NA,None,10288,NA,NA
+ic138,400-740-100-176-000,<  ,215,Harappa,TAB:B,Faience,None,10645,F,NA
+ic139,000-000-002-257-550,<  ,216,Baror,SEAL:S,Steatite,Bull1:I,NA,NA,NA
+ic140,090-740-240-220,NA,217,Harappa,TAB:I,Steatite,S590,10928a,F,NA
+ic141,033-720,NA,218,Harappa,TAB:I,Steatite,None,10928a,F,NA
+ic142,151-000-060-000,NA,219,Mohenjo-daro,SEAL:S,Steatite,Rhin,DK11340,DK,NA
+ic143,400-154-440-220,NA,220,Harappa,TAB:B,Faience,Fish,11330,F,NA
+ic144,520-220-415,NA,221,Harappa,TAB:I,Steatite,Bult,11334,F,NA
+ic145,168-032-578-415,NA,222,Harappa,TAB:I,Steatite,Bult,11349,F,NA
+ic146,740-923-000-220-002-817,NA,223,Harappa,SEAL:S,Steatite,Bull1,11359,F,NA
+ic147,740,NA,224,Harappa,MISC,Steatite,None,11440,F,NA
+ic148,700-033,<  ,225,Harappa,TAB:B,Faience,None,11449,F,NA
+ic149,000-000-000,NA,226,Harappa,TAB:B,Faience,None,11467,F,NA
+ic150,700-031-000-032,<  ,228,Harappa,TAB:I,Steatite,None,1154c,F,NA
+ic151,700-032,NA,229,Harappa,TAB:I,Steatite,None,1154d,F,NA
+ic152,405-004-745-905,NA,233,Harappa,SEAL:S,Steatite,Bull1:W,11705,AB,NA
+ic153,868-705-590,<  ,234,Harappa,TAB:I,Steatite,None,11756,F,NA
+ic154,060-550,<  ,236,Harappa,MISC,Steatite,None,11794,F,NA
+ic155,400-090-740-220-003,NA,237,Harappa,SEAL:S,Steatite,Bull1,11795,F,NA
+ic156,151-231,NA,240,Harappa,SEAL:S,Steatite,Bull1:I,12002,AB,NA
+ic157,000,NA,243,Harappa,TAB:I,Steatite,None,12101,F,NA
+ic158,156-384-031-400,<  ,244,Harappa,MISC,Steatite,None,12150,F,NA
+ic159,740-900-005-002-820,NA,246,Harappa,SEAL:S,Steatite,Bull1:U,12251,F,NA
+ic160,740-554,NA,248,Harappa,TAB:I,Terracotta,None,12422,F,NA
+ic161,700-032,NA,249,Harappa,TAB:B,Faience,None,12562,F,NA
+ic162,220,NA,250,Harappa,TAB:I,Steatite,Bult,12576,F,NA
+ic163,520-400-000,NA,253,Harappa,TAB:I,Steatite,Fish,1282,F,NA
+ic164,700-032,NA,255,Harappa,TAB:I,Steatite,None,1722,AB,NA
+ic165,700-032,NA,257,Harappa,TAB:I,Steatite,None,2257,F,NA
+ic166,400-520-220-016,NA,258,Harappa,TAB:B,Faience,None,2270,F,NA
+ic167,400-740-575-017-920-320-798-002-861,NA,259,Harappa,SEAL:S,Steatite,Bull1:I,2281,F,NA
+ic168,700-033,<  ,260,Harappa,TAB:I,Steatite,None,2355,F,NA
+ic169,503-233-240,NA,261,Harappa,SEAL:S,Steatite,Bull1,2390,F,NA
+ic170,700-033,NA,264,Harappa,TAB:I,Steatite,None,2482,F,NA
+ic171,700-034,NA,265,Harappa,TAB:I,Steatite,None,2568,F,NA
+ic172,400-740-760-605,NA,266,Harappa,TAB:I,Steatite,Gavi,2570,F,NA
+ic173,000-700,<  ,267,Harappa,TAB:I,Steatite,None,262,G,NA
+ic174,700-033,NA,268,Harappa,TAB:I,Steatite,None,2632,F,NA
+ic175,700-032,NA,270,Harappa,TAB:B,Steatite,None,2787,F,NA
+ic176,700-032,NA,273,Harappa,TAB:B,Faience,None,2891,F,NA
+ic177,700-034,<  ,274,Harappa,TAB:I,Steatite,None,2895,F,NA
+ic178,000,<  ,275,Harappa,TAB:I,Steatite,None,3025,F,NA
+ic179,700-032,<  ,280,Harappa,TAB:B,Clay,Bull,3801,F,NA
+ic180,400-098,NA,281,Harappa,TAB:I,Steatite,None,3851,AB,NA
+ic181,700-032,NA,282,Harappa,TAB:I,Steatite,None,3961,F,NA
+ic182,090-740-103-002-861,NA,284,Harappa,SEAL:S,NA,Bull1:W,3975,D,NA
+ic183,740-798-820,NA,288,Harappa,POT:T:g,Clay,None,4171,NA,NA
+ic184,740-000-828,<  ,289,Harappa,POT:T:g,NA,None,4171,NA,NA
+ic185,033-700,NA,290,Harappa,TAB:B,Faience,None,4521,F,NA
+ic186,740-407-590-690-436-255-920-318-220-415-803,<  ,291,Harappa,TAB:B,Clay,Gavi,4532,F,NA
+ic187,740-100-140-003,NA,292,Harappa,SEAL:S,Steatite,Bull1:W,4553,AB,NA
+ic188,220-500-520-002-862-032,NA,293,Harappa,SEAL:S,Steatite,Bull1:W,483,F,NA
+ic189,740-760-070-921-315-233,NA,294,Harappa,SEAL:R,Steatite,None,4965,F,NA
+ic190,824-892-413,NA,295,Harappa,TAB:I,Steatite,Bult,5180,AB,NA
+ic191,520-233-240,NA,297,Harappa,TAB:B,Clay,None,5498,F,NA
+ic192,000-000-000,<  ,298,Harappa,TAB:I,Steatite,Bult,559,F,NA
+ic193,740-048-741-851,<  ,300,Harappa,TAB:B,NA,None,59,F,NA
+ic194,151-760-220-003-002-861,NA,303,Harappa,SEAL:S,Steatite,Bull1:W,7006,AB,NA
+ic195,413,NA,305,Harappa,TAB:B,Faience,None,7156,AB,NA
+ic196,740-100-176,NA,306,Harappa,SEAL:R,Steatite,None,7409,AB,NA
+ic197,700-033,<  ,308,Harappa,TAB:I,Steatite,None,8080,F,NA
+ic198,740-785-004,<  ,309,Harappa,TAB:I,Steatite,Pipal,8650b,F,NA
+ic199,033-255,NA,310,Harappa,TAB:I,Steatite,None,8650b,F,NA
+ic200,700-220-004,NA,311,Harappa,TAB:I,Steatite,None,8650c,F,NA

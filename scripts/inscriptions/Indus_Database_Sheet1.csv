@@ -1,0 +1,34 @@
+UID,Seq in num,Seq in image,Site,CISI ID,Well's ID,Artefact Type,Material Type,Artefact Image,Field Symbol,Excavation  Number,Area,Remark
+0,1,2,3,4,5,6,7,8,9,10,11,12
+CEL001,001-142,,Harappa,"H-241
+",1266,TAB:B,Faience,,Turt,11341,F,
+CEL002,001-304-354-125-812-033,,Harappa,"H-642
+",1577,SEAL:R,Steatite,,None,PIII-7,AB,
+CEL003,001-368-351,,"Mohenjo-daro
+",M77id,3562,SEAL:S,"Steatite
+",,None,DK-C 3158,,
+CEL004,001-368-767,,Chanhujo-daro,C-56 ,79,SEAL:S	,Steatite	,,Bull1:I,CH 3485 (a),,
+CEL005,001-368-861-255-371,,Mohenjo-daro,M-1,2531,SEAL:S	,Steatite,,Bull1:W	,HR 2406,HR	,
+CEL006,001-415-176-792-085,,,,,,,,,,,
+CEL007,001-480-165-900,,Harappa        ,H-718	,1621,TAB:B	,"Clay
+",,,4076-328,F,
+CEL008,001-740-923-033-705,,Harappa        ,,,TAB:C        ,"Copper
+",,,"L 461-CXVII:4
+",L	,
+CEL009,001-740-923-033-706,,Harappa        ,M-530,3004,TAB:C        ,"Copper
+",,"Elep
+",DK12829,DK,
+CEL010,001-740-923-033-706,,Harappa        ,M-528,3002,TAB:C,"Copper
+",,"Elep
+",DK-E 2181,DK,
+CEL011,001-740-923-033-706,,Harappa        ,M-527,3001,TAB:C,Copper,,"Elep
+",DK9169,DK,
+CEL012,001-740-923-033-706,,Harappa        ,M-529        ,3003,TAB:C,"Copper
+",,"Elep
+","VS 1900(1)
+",VS,
+CEL013,001-820-595-760-706-635,,Mohenjo-daro,M-1103,3474,SEAL:S	,Steatite	,,Zebu,DK-B 588,DK	,
+CEL014,002-368-260,,Harappa	,H-600,1543,SEAL:S        ,Steatite ,,Bull1:I	,11554,AB,
+CEL015,002-368-260,,Mohenjo-daro,M-1789,2366,SEAL:S        ,Faience        ,,Bull1:I	,DK7790,DKG. (S),
+CEL016,002-610-125-032,,Harappa,H-74	,1132,SEAL:S        ,Steatite	,,Bull1:J	,B234	,AB,
+CEL017,002-610-125-032,,Mohenjo-daro	,M-1665	,2473,SEAL:S        ,Steatite        ,,Bull1:W	,HR 5320        ,HR,
